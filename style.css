@@ -1,0 +1,272 @@
+.topnav-right
+{
+    margin: 6px;
+    font-size: 20px;
+    width: 99%;
+    text-align: right;
+}
+
+.topnav-right a
+{
+    text-decoration: none;
+    padding: 20px;
+}
+
+.portfolio
+{
+    overflow: hidden;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+h1
+{
+    font-size: 50px;
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.name
+{
+    color: #FF8367;
+}
+
+p
+{
+    color: gray;
+    padding: 8px;
+    font-size: 20px;
+}
+
+.written-part
+{
+    width: 50%;
+    float: left;
+}
+
+.photo img
+{
+    float: right;
+    width: 45%;
+    height: 500px;
+}
+
+.profile
+{
+    text-decoration: none;
+    padding: 15px;
+    margin: 8px;
+    border-radius: 5px;
+    color:white;
+    font-weight: bold;
+    background-image: linear-gradient(40deg, #FF267B,#ee3f91);
+}
+
+.photo2 img
+{
+    width: 45%;
+    height: 500px;
+    float: left;
+}
+
+.written-part2
+{
+    width: 50%;
+    float: right;
+}
+
+.cv
+{
+    background-image: linear-gradient(40deg, #FA6F5A, #F6936F);
+    text-decoration: none;
+    padding: 15px 20px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+}
+
+.about
+{    
+    margin-top: 65px;
+    overflow: hidden;
+}
+
+.education
+{
+    padding-top: 100px;
+    padding-bottom: 80px;
+    overflow: hidden;
+}
+
+.education h1
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+.edu-container
+{
+    padding: 18px;
+    width: 30%;
+    float: left;
+    display: flex;
+    justify-content: space-between;
+}
+
+.edu
+{
+    width: 100%;
+    margin: 15px 35px;
+    padding-left: 20px;
+    background-color: #F8F9FC;
+    border-left: solid 2px yellow;
+    position: relative;
+}
+
+.edu span
+{
+    font-size: 1.3rem;
+    background: #222;
+    color: #fff;
+    border-radius: 5rem;
+    padding: .5rem 2.5rem;
+}
+
+.edu h3
+{
+    font-size: 2rem;
+    padding-top: 1.5rem;
+}
+
+.edu p
+{
+    font-size: 1.4rem;
+    padding: 1rem 0;
+}
+
+.edu i
+{
+    position: absolute;
+    background: #f9ca24;
+    top: -1.5rem;
+    left: -2.5rem;
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+    line-height: 5rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.working-project
+{
+    margin-top: 100px;
+    background-color: #F8F9FC;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.work-title
+{
+    text-align: center;
+    padding: 50px;
+    padding-bottom: 40px;
+}
+
+.works
+{
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 10%;
+    overflow: hidden;  
+}
+
+.work-sample img
+{
+    width: 95%;
+    height: 70%;
+    padding-left: 10px;
+}
+
+.work-sample
+{
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15px;
+    overflow: hidden;
+    width: 30%;
+    float: left;
+    margin-right: 35px;
+    background-color: white;
+}
+
+h3
+{    
+    padding-left: 8px;
+}
+
+.inquiry-container img
+{
+    width: 80%;
+    height: 100%;    
+}
+
+.inquiry-container
+{
+    padding-left: 18%;    
+    position: relative;
+}
+
+.inquiry
+{
+    position: absolute;
+    top: 38%;
+    left: 25%;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.chat
+{
+    position: absolute;
+    top: 38%;
+    left: 70%;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: tomato;
+}
+
+.social-container
+{    
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+h2
+{
+    font-weight: bold;
+    font-size: 35px;
+    color: #363958;
+}
+
+h4
+{
+    color: gray;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.social-container img
+{
+    width: 4%;    
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 10px;
+}
+
